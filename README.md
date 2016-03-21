@@ -1,8 +1,11 @@
 # Kecerdasan-Buatan
 
-Nim 	: 131112071
-Nama 	: Idral Zuanda.AR
+Nim 	  : 131112071
+
+Nama 	  : Idral Zuanda.AR
+
 Kelas 	: TP-A Pagi
+
 Tugas 	: Kecerdasan Buatan
 
 
